@@ -1,29 +1,22 @@
 # Homework-1
 
 ## Description
-ebpage stating the importance of Search Engine Optimization and how your sociaW
-
-
-## Table of Contents
-
-
+Webpage stating the importance of Search Engine Optimization and HTML semantics.
 
 ## Usage
 
+Navigate through the page to learn more about SEO
+
 ## Contributing
+NA
 
-## License
+Description
 
+Webpage stating the importance of Search Engine Optimization and HTML semantics.
 
-## Installation
-
-Provide steps on how to install your project.
-
-##
 Usage
 
-Explain how to use your project.
-
+Navigate through the page to learn more about SEO
 
 Contributing
 
@@ -32,5 +25,5 @@ Let others know how they can contribute to your project.
 
 License
 
-Specify the license under which your project is distributed.
+NA
 
